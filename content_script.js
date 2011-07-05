@@ -72,7 +72,7 @@
   config.api.callbacks({
     init : HelloWorld.init,
     options : HelloWorld.options,
-    contextAction : HelloWorlf.contextAction
+    contextAction : HelloWorld.contextAction
   });
 
 
